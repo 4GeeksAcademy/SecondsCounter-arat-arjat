@@ -1,4 +1,21 @@
 
+.BigClock {
+margin-top: 1em;
+text-align: center;
+background: black;
+}
+
+.BigClock div {
+  
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    background: black;
+    color: whitesmoke;
+    padding: 10px;
+    margin: 3;
+}
+
 /* 
 
     You can write your own styles here...
